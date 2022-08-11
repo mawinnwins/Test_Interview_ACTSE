@@ -10,6 +10,6 @@ https://drive.google.com/drive/folders/1-YALJL-W3hOYzSkS5a9Wu_FmIwEKBWpj?usp=sha
 <hr>
 
 <hr>
-วิธีดูคำตอบ
+วิธีดูคำตอบข้อสอบ :
 F12 + console
 <hr>
