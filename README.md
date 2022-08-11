@@ -11,7 +11,5 @@ https://drive.google.com/drive/folders/1-YALJL-W3hOYzSkS5a9Wu_FmIwEKBWpj?usp=sha
 
 <hr>
 วิธีดูคำตอบ
-```
 F12 + console
-```
 <hr>
